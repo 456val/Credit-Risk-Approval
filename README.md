@@ -9,11 +9,9 @@ An end-to-end machine learning solution that predicts whether a credit card/loan
 - Data  
 - Methodology  
 - Deliverables  
-- Visuals / Screenshots  
 - Insights  
 - Recommendations  
 - Expected Impact  
-- Usage / How to Run  
 - Future Work  
 - License  
 
